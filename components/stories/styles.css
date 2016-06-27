@@ -1,0 +1,5 @@
+.background {
+  display: flex;
+  background-color: blue;
+  width: 100%;
+}
